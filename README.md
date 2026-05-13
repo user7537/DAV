@@ -358,3 +358,32 @@ REVOKE INSERT ON *.* FROM 'role1';
 CREATE INDEX idx_student_name ON STUDENT(StudentName);
 ```
 
+
+To  
+The Embassy of Japan / Selection Committee  
+MEXT Scholarship Program  
+
+Subject: Recommendation Letter for Mr. Vivaan Singh Adhikari  
+
+I am pleased to recommend Mr. Vivaan Singh Adhikari for the Japanese Government (MEXT) Scholarship. I have known him in my capacity as his professor at Atma Ram Sanatan Dharma College, University of Delhi, where he is currently pursuing B.Sc. (Hons.) Computer Science.
+
+During my interaction with Vivaan, I have found him to be a sincere, disciplined, and responsible student. He demonstrates a serious attitude toward his academic responsibilities and possesses the adaptability and commitment required to function effectively in a rigorous academic environment.
+
+Vivaan is respectful in his conduct, cooperative with peers, and maintains a professional attitude in academic settings. He has shown the potential for further growth in initiative and confidence, particularly in new and challenging environments.
+
+I believe he has strong potential for academic growth through undergraduate studies in Japan and will make productive use of the opportunities provided through the MEXT Scholarship. I am confident that the knowledge and experience gained will contribute positively to his future academic and professional development.
+
+I strongly recommend Mr. Vivaan Singh Adhikari for the Japanese Government (MEXT) Scholarship.
+
+Sincerely,
+
+[Teacher Name]  
+[Designation]  
+Department of Computer Science  
+Atma Ram Sanatan Dharma College  
+University of Delhi  
+
+Signature: __________  
+Date: __________
+
+
